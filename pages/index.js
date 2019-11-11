@@ -11,6 +11,7 @@ const Home = () => (
         href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap"
         rel="stylesheet"
       />
+      <meta property="og:type" content="website" />
       <meta property="og:image:height" content="1257" />
       <meta property="og:image:width" content="2400" />
       <meta property="og:title" content="Kingpin" />
